@@ -1,5 +1,6 @@
 ### Haji hear 👋
 
 - 💬 : Is it more easy ?
-  > learn Jekily
-  > learn ruby
+  1. learn jekyll
+  2. learn ruby
+
