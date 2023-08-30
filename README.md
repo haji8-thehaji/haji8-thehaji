@@ -10,5 +10,5 @@ I want to make a platform.
 I want to grow like google,aws,netflix more global corp.
 
 - 💬 : How many regiones can I enter outside of China?
-  1. 2023 now; under 2000 can into
+  1. 2023 now
 
