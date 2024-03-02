@@ -12,5 +12,5 @@ I want to grow like google,aws,netflix more global corp.
 - 💬 : How many regiones can I enter outside of China?
   1. 2023 now
 
-Haji will start Lion Ai Course, have more Question?
+Haji will start Course, have more Question?
 - 💬 : ... loading ...
