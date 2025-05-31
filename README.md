@@ -1,4 +1,4 @@
-### Hi \space hear$ 👋
+### Hi hear
 
 I want to make a platform.
 
