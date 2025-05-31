@@ -1,4 +1,4 @@
-### $H\textcolor{black}{aj}i \space hear$ 👋
+### Hi \space hear$ 👋
 
 I want to make a platform.
 
